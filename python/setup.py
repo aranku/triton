@@ -246,5 +246,15 @@ setup(
             "pandas",
             "tabulate",
         ],
+        "docs": [
+            "matplotlib",
+            "pandas",
+            "tabulate",
+            "flash-attn",
+            "sphinx", 
+            "sphinx-gallery", 
+            "sphinx-rtd-theme",
+            "sphinx-multiversion"
+        ],
     },
 )
