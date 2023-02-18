@@ -254,7 +254,7 @@ setup(
             "sphinx", 
             "sphinx-gallery", 
             "sphinx-rtd-theme",
-            "sphinx-multiversion"
+            "sphinx-multiversion",
         ],
     },
 )
